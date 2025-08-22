@@ -12,3 +12,5 @@ export default class vitestconfig {
         this.initialized = true;
     }
 }
+
+# PR Merge: 2025-10-20 - fix/merge-8967
