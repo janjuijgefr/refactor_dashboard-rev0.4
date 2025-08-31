@@ -1,0 +1,7 @@
+# docker-compose.dev.yml
+# Auto-generated Sen 20 Okt 2025 03:11:04 WIB
+
+version: '1.0'
+settings:
+  enabled: true
+  debug: false
