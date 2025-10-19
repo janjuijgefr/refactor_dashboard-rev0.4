@@ -16,3 +16,5 @@ export default class vitestconfig {
 # PR Merge: 2025-10-20 - fix/merge-8967
 
 # PR Merge: 2025-10-20 - fix/merge-5909
+
+# PR Merge: 2025-10-20 - fix/merge-1796
